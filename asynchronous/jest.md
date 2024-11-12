@@ -1,0 +1,2 @@
+- asynchronous are for amqplib promise task
+- you can use async/await for amqplib
